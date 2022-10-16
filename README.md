@@ -22,7 +22,7 @@
 
 ## About Me 🚀
 
-🎓 I'm a pre-final year CS student who is very passionate about programming. 
+🎓 I'm a final year CS student who is very passionate about programming. 
 
 🌱 Experience: Technical Content Writer Intern @ GeeksForGeeks. 
 
